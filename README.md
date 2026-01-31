@@ -1,11 +1,13 @@
-# Getting Started with 
-```
 # Netflix GPT
-
+```
 - Create React App
 - Configured tailwindCSS
+- Header
+- Login Form
+- Sign up Form
 
 # Features
+
 - Login/Sign Up
     - Sign In/Sign Up Form
     - redirect to Browse Page
